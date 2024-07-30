@@ -1,0 +1,14 @@
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\bin\Debug\net8.0\BitcoinBlockParsing.exe
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\bin\Debug\net8.0\BitcoinBlockParsing.deps.json
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\bin\Debug\net8.0\BitcoinBlockParsing.runtimeconfig.json
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\bin\Debug\net8.0\BitcoinBlockParsing.dll
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\bin\Debug\net8.0\BitcoinBlockParsing.pdb
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.AssemblyInfoInputs.cache
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.AssemblyInfo.cs
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.csproj.CoreCompileInputs.cache
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.dll
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\refint\BitcoinBlockParsing.dll
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.pdb
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\BitcoinBlockParsing.genruntimeconfig.cache
+C:\Users\gafar\RiderProjects\BitcoinBlockParsing\BitcoinBlockParsing\obj\Debug\net8.0\ref\BitcoinBlockParsing.dll
